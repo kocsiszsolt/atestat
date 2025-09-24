@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VW Passat Modellek - VW Passat Projekt</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>VW Passat Projekt</h1>
+    <nav>
+      <a href="index.html">Főoldal</a>
+      <a href="modellek.html">Modellek</a>
+      <a href="motorok-b1.html">Motorok</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="card">
+      <h2>VW Passat Modellek</h2>
+      <p>Itt találod a Volkswagen Passat különböző generációinak modelljeit, részletes leírással és képekkel.</p>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 VW Passat Projekt</p>
+  </footer>
+</body>
+</html>
