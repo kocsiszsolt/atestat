@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VW Passat Projekt</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>VW Passat Projekt</h1>
+    <nav>
+      <a href="index.html">Főoldal</a>
+      <a href="modellek.html">Modellek</a>
+      <a href="motorok-b1.html">Motorok</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="card">
+      <h2>Üdvözöllek a VW Passat projekt oldalán!</h2>
+      <p>Itt megtalálod a Passat különböző generációinak modelljeit, motorváltozatait és érdekességeket a történetéből.</p>
+      <img src="img/passat b6.jpg" alt="VW Passat B6">
+    </div>
+
+    <div class="card">
+      <h2>A Volkswagen Passat rövid története</h2>
+      <p>
+        A Volkswagen Passat 1973-ban mutatkozott be, és azóta a világ egyik legismertebb középkategóriás autója lett. 
+        Több mint négy évtized alatt számos generáción keresztül fejlődött, mindig ötvözve a megbízhatóságot, a kényelmet és a modern technológiát. 
+        A Passat különösen népszerű Európában, de világszerte is sok autós választása lett, köszönhetően tágas belső terének és időtálló formatervezésének.
+      </p>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 VW Passat Projekt</p>
+  </footer>
+</body>
+</html>
